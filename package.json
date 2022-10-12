@@ -1,0 +1,11 @@
+{
+  "name": "veille-orm-vs-odm-mongoose",
+  "version": "1.0.0",
+  "description": "Veille sur orm vs odm et présentation de mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blaise, Zephy",
+  "license": "ISC"
+}
